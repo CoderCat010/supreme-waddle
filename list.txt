@@ -1,0 +1,15 @@
+MOST IMPORTENT:
+├── const / let          → সব variable-এ
+├── Arrow function       → সব function-এ  
+├── Template literal     → সব string-এ
+├── Destructuring        → object/array থেকে data নিতে
+├── Spread/Rest          → array/object combine বা copy করতে
+├── map/filter/reduce    → data নিয়ে কাজ করতে
+├── async/await          → API call করতে
+└── Optional chaining    → nested data access করতে
+
+USEFULL:
+├── Classes              → বড় project-এ OOP করতে
+├── Map & Set            → unique data বা key-value store
+├── Modules              → code আলাদা ফাইলে রাখতে
+└── Nullish Coalescing   → default value দিতে
